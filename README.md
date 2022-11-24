@@ -1,11 +1,16 @@
 
 ### Table of Contents
 
-1. [Installation](#installation)
-2. [Project Motivation](#motivation)
-3. [File Descriptions](#files)
-4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+1. [Changes](#changes)
+2. [Installation](#installation)
+3. [Project Motivation](#motivation)
+4. [File Descriptions](#files)
+5. [Results](#results)
+6. [Licensing, Authors, and Acknowledgements](#licensing)
+
+## Changes for Udacity Course <a name="changes"></a>
+
+This line was added as requested in the Udacity Course to start working with GIT.
 
 ## Installation <a name="installation"></a>
 
